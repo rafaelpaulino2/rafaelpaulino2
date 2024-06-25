@@ -1,5 +1,5 @@
-<h1 align="center">Oi 👋, Eu sou Rafael</h1>
-<h3 align="center">Sou apaixonado por encontrar soluções através dos dados</h3>
+<h1>Oi 👋, Eu sou Rafael</h1>
+<h3>Sou apaixonado por encontrar soluções através dos dados</h3>
 
 - 🔭 Atualmente estou trabalhando com analise preditiva e visualização de dados no projeto **Análise de risco de crédito**
 
